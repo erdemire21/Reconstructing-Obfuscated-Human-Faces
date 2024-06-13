@@ -2,9 +2,6 @@
 Reconstruction of Human Faces that are Obfuscated.
 # Example Results
 
-
-# Example Results
-
 Some example results from various research papers using the Shen et al. dataset.
 
 | ![Ground Truth](our_images/im4174_ker08_blur_k13.png_original.jpg) | ![Blurred](our_images/im4174_ker08_blur_k13.png) | ![Krishnan et al.](other_paper_images/krishnan1.png) | ![Xu et al.](other_paper_images/xu1.png) |
